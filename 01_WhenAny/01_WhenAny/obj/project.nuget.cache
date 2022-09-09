@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "JVSIXV+2pRS2k0bQ7CC3jH9DvMtCs0IEEnwPCY6lh4Ug0F+KLXkgoj54kP8jiNnbJ1IgLWQxvq2Ht+Hrh1OG0A==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\ReactiveUI\\01_WhenAny\\01_WhenAny\\01_WhenAny.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lumient\\.nuget\\packages\\dynamicdata\\7.9.5\\dynamicdata.7.9.5.nupkg.sha512",
+    "C:\\Users\\lumient\\.nuget\\packages\\reactiveui\\18.3.1\\reactiveui.18.3.1.nupkg.sha512",
+    "C:\\Users\\lumient\\.nuget\\packages\\reactiveui.wpf\\18.3.1\\reactiveui.wpf.18.3.1.nupkg.sha512",
+    "C:\\Users\\lumient\\.nuget\\packages\\splat\\14.4.1\\splat.14.4.1.nupkg.sha512",
+    "C:\\Users\\lumient\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ReactiveUI.WPF 18.3.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ReactiveUI.WPF",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

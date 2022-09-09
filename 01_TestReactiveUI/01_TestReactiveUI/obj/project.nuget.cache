@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "SdxAl79RgXy9Jv8gu/t3jVt7hra/j+mnWSJIoFIIABgNXFe3vRcJhnk5G5VacScI29uGWUfAnu1ZmQmYrineCA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\ReactiveUI\\01_TestReactiveUI\\01_TestReactiveUI\\01_TestReactiveUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lumient\\.nuget\\packages\\dynamicdata\\7.9.5\\dynamicdata.7.9.5.nupkg.sha512",
+    "C:\\Users\\lumient\\.nuget\\packages\\pharmacist.common\\2.0.8\\pharmacist.common.2.0.8.nupkg.sha512",
+    "C:\\Users\\lumient\\.nuget\\packages\\reactiveui\\18.3.1\\reactiveui.18.3.1.nupkg.sha512",
+    "C:\\Users\\lumient\\.nuget\\packages\\reactiveui.events.wpf\\15.1.1\\reactiveui.events.wpf.15.1.1.nupkg.sha512",
+    "C:\\Users\\lumient\\.nuget\\packages\\reactiveui.wpf\\18.3.1\\reactiveui.wpf.18.3.1.nupkg.sha512",
+    "C:\\Users\\lumient\\.nuget\\packages\\splat\\14.4.1\\splat.14.4.1.nupkg.sha512",
+    "C:\\Users\\lumient\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

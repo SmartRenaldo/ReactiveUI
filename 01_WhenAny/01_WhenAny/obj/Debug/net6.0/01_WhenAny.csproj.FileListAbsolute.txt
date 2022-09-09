@@ -1,0 +1,5 @@
+C:\Projects\ReactiveUI\01_WhenAny\01_WhenAny\obj\Debug\net6.0\01_WhenAny.csproj.AssemblyReference.cache
+C:\Projects\ReactiveUI\01_WhenAny\01_WhenAny\obj\Debug\net6.0\01_WhenAny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ReactiveUI\01_WhenAny\01_WhenAny\obj\Debug\net6.0\01_WhenAny.AssemblyInfoInputs.cache
+C:\Projects\ReactiveUI\01_WhenAny\01_WhenAny\obj\Debug\net6.0\01_WhenAny.AssemblyInfo.cs
+C:\Projects\ReactiveUI\01_WhenAny\01_WhenAny\obj\Debug\net6.0\01_WhenAny.csproj.CoreCompileInputs.cache

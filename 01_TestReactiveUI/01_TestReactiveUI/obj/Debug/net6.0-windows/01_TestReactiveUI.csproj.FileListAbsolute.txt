@@ -1,0 +1,5 @@
+C:\Projects\ReactiveUI\01_TestReactiveUI\01_TestReactiveUI\obj\Debug\net6.0-windows\01_TestReactiveUI.csproj.AssemblyReference.cache
+C:\Projects\ReactiveUI\01_TestReactiveUI\01_TestReactiveUI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Projects\ReactiveUI\01_TestReactiveUI\01_TestReactiveUI\obj\Debug\net6.0-windows\App.g.cs
+C:\Projects\ReactiveUI\01_TestReactiveUI\01_TestReactiveUI\obj\Debug\net6.0-windows\01_TestReactiveUI_MarkupCompile.cache
+C:\Projects\ReactiveUI\01_TestReactiveUI\01_TestReactiveUI\obj\Debug\net6.0-windows\01_TestReactiveUI_MarkupCompile.lref

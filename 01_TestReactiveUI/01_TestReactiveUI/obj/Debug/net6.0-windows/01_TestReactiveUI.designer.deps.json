@@ -1,0 +1,135 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DynamicData/7.9.5": {
+        "dependencies": {
+          "System.Reactive": "5.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/DynamicData.dll": {
+            "assemblyVersion": "7.9.0.0",
+            "fileVersion": "7.9.5.54039"
+          }
+        }
+      },
+      "Pharmacist.Common/2.0.8": {
+        "dependencies": {
+          "System.Reactive": "5.0.0"
+        },
+        "runtime": {
+          "lib/net5.0/Pharmacist.Common.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.8.15338"
+          }
+        }
+      },
+      "ReactiveUI/18.3.1": {
+        "dependencies": {
+          "DynamicData": "7.9.5",
+          "Splat": "14.4.1"
+        },
+        "runtime": {
+          "lib/net6.0/ReactiveUI.dll": {
+            "assemblyVersion": "18.3.0.0",
+            "fileVersion": "18.3.1.49589"
+          }
+        }
+      },
+      "ReactiveUI.Events.WPF/15.1.1": {
+        "dependencies": {
+          "Pharmacist.Common": "2.0.8",
+          "System.Reactive": "5.0.0"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/ReactiveUI.Events.WPF.dll": {
+            "assemblyVersion": "15.1.0.0",
+            "fileVersion": "15.1.1.16107"
+          }
+        }
+      },
+      "ReactiveUI.WPF/18.3.1": {
+        "dependencies": {
+          "ReactiveUI": "18.3.1"
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/ReactiveUI.Wpf.dll": {
+            "assemblyVersion": "18.3.0.0",
+            "fileVersion": "18.3.1.49589"
+          }
+        }
+      },
+      "Splat/14.4.1": {
+        "runtime": {
+          "lib/net6.0/Splat.dll": {
+            "assemblyVersion": "14.4.0.0",
+            "fileVersion": "14.4.1.53869"
+          }
+        }
+      },
+      "System.Reactive/5.0.0": {
+        "runtime": {
+          "lib/net5.0/System.Reactive.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DynamicData/7.9.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xFwVha7o3qUtVYxco5p+7Urcztc/m1gmaEUxOG0i7LNe+vfCfyb0ECAsT2FLm3zOPHb0g8s9qVu5LfPKfRNVng==",
+      "path": "dynamicdata/7.9.5",
+      "hashPath": "dynamicdata.7.9.5.nupkg.sha512"
+    },
+    "Pharmacist.Common/2.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NNiYvv2oTd18ckJMBt8zatCBPj0KwbzbxMuxgu45m20VtqvkvR6AborbOhkhmJC70iaSv3uLvhTnFExIJGDnQA==",
+      "path": "pharmacist.common/2.0.8",
+      "hashPath": "pharmacist.common.2.0.8.nupkg.sha512"
+    },
+    "ReactiveUI/18.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0tclGtjrRPfA2gbjiM7O3DeNmo6/TpDn7CMN6jgzDrbgrnysM7oEzjGEeXbtXaOxH6kEf6RiMKWobZoSgbBXhQ==",
+      "path": "reactiveui/18.3.1",
+      "hashPath": "reactiveui.18.3.1.nupkg.sha512"
+    },
+    "ReactiveUI.Events.WPF/15.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-s6/QDkSZnQmMxvZ/sKHMJSeDY5yZOGPY64Ezl1h5kclj6l/v7hRRbnWIpEFD60+thsTQVGJIilNxnQ5n2oBmoA==",
+      "path": "reactiveui.events.wpf/15.1.1",
+      "hashPath": "reactiveui.events.wpf.15.1.1.nupkg.sha512"
+    },
+    "ReactiveUI.WPF/18.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NbBuMKNWaZ0pxm9AXcu6xlZsL37VaakQe3+hEblOnoFsydKj5eaUyGtSUuQN+ehJ2lXVfdz3oMTSaXa9/wsnrQ==",
+      "path": "reactiveui.wpf/18.3.1",
+      "hashPath": "reactiveui.wpf.18.3.1.nupkg.sha512"
+    },
+    "Splat/14.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Z1Mncnzm9pNIaIbZ/EWH6x5ESnKsmAvu8HP4StBRw+yhz0lzE7LCbt22TNTPaFrYLYbYCbGQIc/61yuSnpLidg==",
+      "path": "splat/14.4.1",
+      "hashPath": "splat.14.4.1.nupkg.sha512"
+    },
+    "System.Reactive/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-erBZjkQHWL9jpasCE/0qKAryzVBJFxGHVBAvgRN1bzM0q2s1S4oYREEEL0Vb+1kA/6BKb5FjUZMp5VXmy+gzkQ==",
+      "path": "system.reactive/5.0.0",
+      "hashPath": "system.reactive.5.0.0.nupkg.sha512"
+    }
+  }
+}
