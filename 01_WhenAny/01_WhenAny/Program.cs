@@ -1,4 +1,5 @@
 ﻿using _01_ReactiveUITest;
+using ReactiveUI;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,6 +13,8 @@ namespace _01_WhenAny
         static void Main(string[] args)
         {
             MainViewModel vm = new MainViewModel();
+            vm.WhenAnyValue(x => x.TimeSync)
+                .Subscribe(System.Console.WriteLine);
 
             System.Console.ReadLine();
         }

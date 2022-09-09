@@ -12,6 +12,7 @@ namespace _01_ReactiveUITest
     {
         private DateTimeOffset _time;
         private DateTimeOffset _timeTwo;
+        private ObservableAsPropertyHelper<string> _timeSync;
 
         public MainViewModel()
         {
@@ -20,7 +21,7 @@ namespace _01_ReactiveUITest
                     x => x.TimeTwo,
                     (time, timeTwo) => $"Time 1: {time}\nTime 2: {timeTwo}")
                 .ObserveOn(RxApp.MainThreadScheduler)
-                .Subscribe(time => System.Console.WriteLine(time));
+                .ToProperty(this, nameof(TimeSync), out _timeSync, scheduler: RxApp.TaskpoolScheduler);
 
             Observable
                 .Interval(TimeSpan.FromSeconds(1))
@@ -42,6 +43,8 @@ namespace _01_ReactiveUITest
                     }
                 );
         }
+
+        public string TimeSync => _timeSync.Value;
 
         public DateTimeOffset Time
         {
