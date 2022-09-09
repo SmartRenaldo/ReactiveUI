@@ -30,8 +30,8 @@ namespace _01_ReactiveUITest
 
         public DateTimeOffset Time
         {
-            get => this._time;
-            set => this.RaiseAndSetIfChanged(ref this._time, value);
+            get => _time;
+            set => this.RaiseAndSetIfChanged(ref _time, value);
         }
     }
-}
+} 

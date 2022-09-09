@@ -46,9 +46,13 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "ReactiveUI.WPF": {
+            "ReactiveUI": {
               "target": "Package",
               "version": "[18.3.1, )"
+            },
+            "System.Linq.Expressions": {
+              "target": "Package",
+              "version": "[4.3.0, )"
             }
           },
           "imports": [

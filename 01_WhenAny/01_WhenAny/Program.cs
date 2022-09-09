@@ -12,6 +12,8 @@ namespace _01_WhenAny
         static void Main(string[] args)
         {
             MainViewModel vm = new MainViewModel();
+
+            System.Console.ReadLine();
         }
     }
 }

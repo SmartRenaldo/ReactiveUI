@@ -1,5 +1,0 @@
-C:\Projects\ReactiveUI\01_WhatIsReactiveUI\01_WhatIsReactiveUI\obj\Debug\net6.0\01_WhatIsReactiveUI.csproj.AssemblyReference.cache
-C:\Projects\ReactiveUI\01_WhatIsReactiveUI\01_WhatIsReactiveUI\obj\Debug\net6.0\01_WhatIsReactiveUI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Projects\ReactiveUI\01_WhatIsReactiveUI\01_WhatIsReactiveUI\obj\Debug\net6.0\01_WhatIsReactiveUI.AssemblyInfoInputs.cache
-C:\Projects\ReactiveUI\01_WhatIsReactiveUI\01_WhatIsReactiveUI\obj\Debug\net6.0\01_WhatIsReactiveUI.AssemblyInfo.cs
-C:\Projects\ReactiveUI\01_WhatIsReactiveUI\01_WhatIsReactiveUI\obj\Debug\net6.0\01_WhatIsReactiveUI.csproj.CoreCompileInputs.cache
